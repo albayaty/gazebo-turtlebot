@@ -32,6 +32,6 @@ Intelligent Robotics I: Project 1 (TurtleBot Signals Detector) using Gazebo.
 
     $ cd /LAST DESIRABLE PATH
 
-   $ python tb_proj1.py
+    $ python tb_proj1.py
 
 Enjoy!
