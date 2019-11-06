@@ -31,6 +31,7 @@ Intelligent Robotics I: Project 1 (TurtleBot Signals Detector) using Gazebo.
 6. Go to your last desirable path and run the following command to launch the project:
 
     $ cd /LAST DESIRABLE PATH
+    
     $ python tb_proj1.py
 
 Enjoy!
