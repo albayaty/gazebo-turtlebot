@@ -18,7 +18,7 @@ Intelligent Robotics I: Project 1 (TurtleBot Signals Detector) using Gazebo.
 
 1. Install VMware Workstation Player from https://www.vmware.com/
 
-2. Install Ubuntu, Gazebo, ROS, and TurtleBot using the specified instructions as in https://wiki.ros.org/turtlebot/Tutorials/indigo/Turtlebot%20Installation
+2. Install Ubuntu, Gazebo, ROS, and TurtleBot using the specified instructions as in  https://wiki.ros.org/turtlebot/Tutorials/indigo/Turtlebot%20Installation
 
 3. Copy the 'signals.world' file from the 'src' folder to your desirable path in Ubuntu.
 
