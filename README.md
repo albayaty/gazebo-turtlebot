@@ -25,7 +25,7 @@ Intelligent Robotics I: Project 1 (TurtleBot Signals Detector) using Gazebo.
 4. Run the following command to launch Gazebo with the specified world:
 
 
-	roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/<DESIRABLE PATH>/signals.world
+    roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/<DESIRABLE PATH>/signals.world
 
 
 5. Copy the 'tb_proj1.py' file from the 'src' folder to your desirable path in Ubuntu.
